@@ -32,6 +32,7 @@ Gerekli kütüphaneleri yüklemek için şu komutu çalıştırabilirsiniz:
 
 ```bash
 pip install opencv-python numpy gradio
+```
 
 
 
