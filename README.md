@@ -1,6 +1,6 @@
 # Fotoğraf Filtreleme Uygulaması
 
-Bu proje, kullanıcıların çeşitli filtreleri fotoğraflarına uygulayabileceği bir Python tabanlı web uygulamasıdır. Gradio arayüzü kullanarak kolayca filtreler arasında seçim yapabilir ve yüklediğiniz fotoğraflara anında efektler ekleyebilirsiniz. Uygulama, farklı görsel efektlerle fotoğrafları düzenlemeyi sağlar.
+Bu proje, kullanıcıların çeşitli filtreleri fotoğraflarına uygulayabileceği bir Python tabanlı web uygulamasıdır. Gradio arayüzü kullanarak kolayca filtreler arasında seçim yapabilir ve yüklediğiniz fotoğraflara anında efektler ekleyebilirsiniz. Uygulama, farklı görsel efektlerle fotoğrafları düzenlemeyi sağlar. --> https://huggingface.co/spaces/elfgk/foto-filter
 
 ## Özellikler
 
