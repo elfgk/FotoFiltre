@@ -32,3 +32,17 @@ Gerekli kütüphaneleri yüklemek için şu komutu çalıştırabilirsiniz:
 
 ```bash
 pip install opencv-python numpy gradio
+
+
+
+## Katkı
+
+Katkıda bulunmak için lütfen bir "Pull Request" oluşturun. 
+
+
+<h1 align="center"> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
+
+<h1> İletişim: </h1>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfgk/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
